@@ -1,2 +1,2 @@
 # Universities
-monochrome website
+university website
